@@ -1,4 +1,3 @@
-
 (1..15).each do |num|
 
 	case  
@@ -13,7 +12,4 @@
 	end
 
 end
-
-
-
 
